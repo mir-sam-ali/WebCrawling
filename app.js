@@ -102,7 +102,7 @@ async function run() {
     // if (!email)
     //     continue;
 
-    console.log(username);
+    //console.log(username);
 
     // TODO save this user
 }
